@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    padding: 20px;
+    background-color: beige;
+}
+
+.div-contenar {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+#About {
+    display: none;
+    background-color: aqua;
+}
+
+#Team {
+    display: none;
+    background-color: blueviolet;
+
+}
+
+#Privacy {
+    display: none;
+    background-color: aqua;
+}
+
+button {
+    font-size: 2em;
+    
+}
